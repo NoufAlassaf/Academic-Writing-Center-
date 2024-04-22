@@ -1,5 +1,5 @@
-<h1 align=center>Academic Writing Center Hugo</h1> 
-<p align=center> Educenter is a Hugo theme designed specifically for educational websites. This sleek theme is packed with all the elements that you need to show info about your school, courses, instructors, announcements, and more. </p>
+<h1 align=center>Academic Writing Center </h1> 
+<p align=center> مرحبًا بك في مركز الكتابة الأكاديمية، حيث يلتقي الاحتراف بالجودة العالية! اكتشف معنا عالمًا من الخدمات اللغوية المتميزة التي تضمن لك النجاح الأكاديمي والمهني. </p>
 
 <h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/educenter" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Feducenter%2Fsite%2F&form_factor=desktop">Page Speed (96%)🚀</a></h2>
 
